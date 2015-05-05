@@ -1,0 +1,18 @@
+Exercise 1.4: Which of the following strings are valid identifiers? 
+
+___ => yes, but variables that begin with underscore should be reserved
+
+_end => yes, but varibles that begin with undercore should be reserved
+
+End => yes
+
+end => No, reserved word
+
+until => No, reserved word
+
+? => No, not a letter or number
+
+nil => reserved word
+
+NULL  => yes
+
