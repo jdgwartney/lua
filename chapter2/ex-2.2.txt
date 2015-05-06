@@ -1,0 +1,26 @@
+Exercise 2.2: Which of the following are valid numerals? What are their values?
+
+.0e12 => valid, value = 0
+
+.e12 => not valid
+
+0.0e => not valid
+
+0x12 => valid, value = 18
+
+0xABFG => not valid
+
+0xA  => valid, value = 10
+
+FFFF => not valid, value = nil
+
+0xFFFFFFFF => valid, value = 4294967295
+
+0x => not valid
+
+0x1P10 => valid, value = 1024
+
+0.1e1 => valid, value = 1
+
+0x0.1p1 => valid, value = 0.125
+
